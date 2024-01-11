@@ -12,13 +12,13 @@ The Amazon Orders Dataset provides a comprehensive view of the company's sales t
 **Category-wise Analysis:**
 
 Understand the performance of different product categories in terms of sales, quantity, and profitability.<br/>
-Identify top-performing and underperforming categories to guide inventory and marketing strategies.Allocate resources and marketing efforts based on the performance of each category.<br/>
+Identify top-performing and underperforming categories to guide inventory and marketing strategies. Allocate resources and marketing efforts based on the performance of each category.<br/>
 Optimize inventory levels to meet demand fluctuations in high-performing categories.
 
 **Date-wise and City/State-wise Analysis:**
 
 Uncover patterns in sales and order quantities based on order dates.<br/>
-Explore regional variations in customer behavior and preferences.Seasonal trends were observed, with increased sales during holidays and special occasions.<br/>
+Explore regional variations in customer behavior and preferences. Seasonal trends were observed, with increased sales during holidays and special occasions.<br/>
 Certain cities and states demonstrated higher order quantities, indicating regional preferences.<br/>
 Varied delivery times were noted across regions, influencing customer satisfaction.
 
@@ -35,7 +35,7 @@ Best-selling products were recognized, enabling focused marketing efforts.
 
 Order ID: A unique identifier assigned to each order for easy tracking and reference.
 
-Order Date: The date when the customer placed the order, crucial for analyzing seasonal trends and demand patterns.
+Order Date: The date when the customer placed the order, is crucial for analyzing seasonal trends and demand patterns.
 
 Ship Date: The date when the order was shipped, allowing for evaluation of order fulfillment efficiency.
 
@@ -75,6 +75,6 @@ Delivery Time: Indicates the duration between order placement and delivery, help
 For More Information
 Please review the full analysis in the [View This](https://app.powerbi.com/view?r=eyJrIjoiYmYxNDM2NjQtODA0Zi00Nzg4LWI5ODktNGY3MzhmYTM3ODE4IiwidCI6ImMzYTFlMjAyLWJiOWYtNDBhNy1iY2U1LTViZmYxZGEzMzJiYSJ9&embedImagePlaceholder=true).
 
-For any additional questions, feel free to email me at [business.trushalpatel@gmail.com](mailto:business.trushalpatel@gmail.com)
+For any additional questions, feel free to email me at [patroamit358@gmail.com](mailto:patroamit358@gmail.com)
 
 
